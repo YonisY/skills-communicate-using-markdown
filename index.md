@@ -1,9 +1,9 @@
 Skils Checklist: 
-- [x]Git
-- [x]Linux
+- []Git
+- []Linux
 - []Bash
 - []Python
-- [x]AWS
+- []AWS
 
 
 ``` javascript
