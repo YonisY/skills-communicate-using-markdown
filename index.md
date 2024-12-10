@@ -1,3 +1,11 @@
+Skils Checklist: 
+- [x]Git
+- [x]Linux
+- []Bash
+- []Python
+- [x]AWS
+
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
