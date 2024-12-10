@@ -1,4 +1,3 @@
-Skils Checklist: 
 - []Git
 - []Linux
 - []Bash
