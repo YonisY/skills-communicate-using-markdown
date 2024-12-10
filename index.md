@@ -1,7 +1,9 @@
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
-
+Skills Checklist: 
+- [x] Git
+- [x] Linux
+- [] Bash
+- [x] Python
+- [] AWS
 
 ``` javascript
 var myVar = "Hello, world!";
